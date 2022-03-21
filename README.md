@@ -5,4 +5,3 @@ Extra feature allowed the user to enter the date which the app should count down
 
 Next Steps:
   deploy with neltify 
-  include on resume 
